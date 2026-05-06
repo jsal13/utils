@@ -1,0 +1,41 @@
+{
+	// Snippets for LaTeX files.
+	"Lemma": {
+		"prefix": "lem",
+		"body": [
+			"\\begin{lemma}\n\t$1\n\\end{lemma}",
+			"\\begin{proof}\n\t$2\n\\end{proof}\n"
+		],
+		"description": "Lemma structure."
+	},
+	"Definition": {
+		"prefix": "def",
+		"body": [
+			"\\begin{definition}[$1]\n\t$2\n\\end{definition}\n"
+		],
+		"description": "Definition structure."
+	},
+	"Theorem": {
+		"prefix": "thm",
+		"body": [
+			"\\begin{theorem}\n\t$2\n\\end{theorem}",
+			"\\begin{proof}\n\t$3\n\\end{proof}\n"
+		],
+		"description": "Theorem structure."
+	},
+	"Corollary": {
+		"prefix": "cor",
+		"body": [
+			"\\begin{corollary}\n\t$2\n\\end{corollary}",
+			"\\begin{proof}\n\t$3\n\\end{proof}\n"
+		],
+		"description": "Corollary structure."
+	},
+	"Example": {
+		"prefix": "ex",
+		"body": [
+			"\\begin{example}\n\t$1\n\\end{example}\n"
+		],
+		"description": "Example structure."
+	}
+}
