@@ -24,7 +24,7 @@ Hollow Knight:
   RandomizeMimics: 'false'
   RandomizeMaps: 'true'
   RandomizeStags: 'true'
-  RandomizeLifebloodCocoons: 'true'
+  RandomizeLifebloodCocoons: 'false'
   RandomizeGrimmkinFlames: 'false'
   RandomizeJournalEntries: 'false'
   RandomizeNail: 'false'
